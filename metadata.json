@@ -1,0 +1,11 @@
+{
+  "name": "Assistente Código Humano - Senac 80 Anos",
+  "description": "Assistente Virtual Oficial do Senac para o projeto Código Humano, focado em RH Estratégico, IA, ESG e Inclusão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered HR assistance",
+    "ESG & SDG alignment guidance",
+    "Professional development support",
+    "Apoio ao desenvolvimento profissional utilizando a IA"
+  ]
+}
